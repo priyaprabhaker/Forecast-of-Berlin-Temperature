@@ -40,8 +40,8 @@ To get started with this project, follow these steps:
     Run the provided Python scripts to retrieve data, perform analysis, and generate temperature forecasts.
     Customize the analysis and model parameters as needed.
 
-Contributions:
+## Contributions:
 Contributions to this project are welcome. Whether you want to improve the forecasting model, enhance data preprocessing techniques, or add additional features, your contributions can help make this temperature forecasting tool even more accurate and useful.
 
-License:
+## License:
 This project is open-source and available under the GNU License. 
