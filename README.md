@@ -10,7 +10,7 @@ Accurate weather forecasting is crucial for a wide range of applications, from a
 
 ## Key Features:
 
-    Data Collection: The project fetches historical temperature data from www.ecad.eu, ensuring a comprehensive dataset for analysis.
+    # Data Collection: The project fetches historical temperature data from www.ecad.eu, ensuring a comprehensive dataset for analysis.
 
     Data Preprocessing: Data preprocessing techniques are applied to clean, transform, and prepare the dataset for analysis.
 
