@@ -1,15 +1,14 @@
-# Forecast-of-Berlin-Temperature
+## Forecast of Berlin Temperature
 Berlin Temperature Forecasting with Autoregression
 
-Project Description:
-
+## Project Description:
 Overview:
-This GitHub repository houses a robust Python program for forecasting Berlin's temperature using time series analysis techniques, specifically Autoregression (AR) models, statsmodels.tsa, partial autocorrelation, and autocorrelation. The project leverages historical temperature data provided by www.ecad.eu to generate accurate temperature forecasts for Berlin.
+This GitHub repository houses a robust Python program for forecasting Berlin's temperature using time series analysis techniques, specifically Autoregression (AR) models, statsmodels.tsa, partial autocorrelation, and autocorrelation. The project leverages historical temperature data provided by https://www.ecad.eu to generate accurate temperature forecasts for Berlin.
 
 Motivation:
 Accurate weather forecasting is crucial for a wide range of applications, from agriculture to energy management. This project aims to develop a reliable temperature forecasting tool using advanced time series analysis techniques. By understanding and modeling the temporal patterns in temperature data, we can provide valuable insights and predictions for future temperature trends in Berlin.
 
-Key Features:
+## Key Features:
 
     Data Collection: The project fetches historical temperature data from www.ecad.eu, ensuring a comprehensive dataset for analysis.
 
@@ -25,16 +24,15 @@ Key Features:
 
     Visualization: The project includes visualizations to help users understand the historical temperature data, model diagnostics, and forecasted values.
 
-Dependencies:
+## Dependencies:
 
     Python
     pandas
     numpy
     statsmodels
-    matplotlib
-    www.ecad.eu API (for data retrieval)
+    
 
-Getting Started:
+## Getting Started:
 To get started with this project, follow these steps:
 
     Clone the repository to your local machine.
@@ -46,6 +44,4 @@ Contributions:
 Contributions to this project are welcome. Whether you want to improve the forecasting model, enhance data preprocessing techniques, or add additional features, your contributions can help make this temperature forecasting tool even more accurate and useful.
 
 License:
-This project is open-source and available under the MIT License. Feel free to use and modify the code according to your needs.
-
-Start forecasting Berlin's temperature with confidence using this powerful time series analysis tool! We hope this project proves to be valuable for various applications that require accurate temperature predictions in the Berlin region.
+This project is open-source and available under the GNU License. 
