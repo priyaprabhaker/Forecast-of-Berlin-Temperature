@@ -10,19 +10,19 @@ Accurate weather forecasting is crucial for a wide range of applications, from a
 
 ## Key Features:
 
-    # Data Collection: The project fetches historical temperature data from www.ecad.eu, ensuring a comprehensive dataset for analysis.
+1. Data Collection: The project fetches historical temperature data from www.ecad.eu, ensuring a comprehensive dataset for analysis.
 
-    Data Preprocessing: Data preprocessing techniques are applied to clean, transform, and prepare the dataset for analysis.
+2. Data Preprocessing: Data preprocessing techniques are applied to clean, transform, and prepare the dataset for analysis.
 
-    Time Series Analysis: The core of the project involves time series analysis using Autoregression (AR) models, which capture the temporal dependencies in the data. The statsmodels.tsa library is used for model development.
+3. Time Series Analysis: The core of the project involves time series analysis using Autoregression (AR) models, which capture the temporal dependencies in the data. The statsmodels.tsa library is used for model development.
 
-    Partial Autocorrelation (PACF): PACF analysis is employed to determine the order of the AR model. It helps in identifying the lag values that contribute significantly to the forecast.
+4. Partial Autocorrelation (PACF): PACF analysis is employed to determine the order of the AR model. It helps in identifying the lag values that contribute significantly to the forecast.
 
-    Autocorrelation (ACF): Autocorrelation analysis is performed to understand the correlation structure within the time series data, providing additional insights into the data's temporal dependencies.
+5. Autocorrelation (ACF): Autocorrelation analysis is performed to understand the correlation structure within the time series data, providing additional insights into the data's temporal dependencies.
 
-    Forecasting: The AR model is used to forecast future temperature values for Berlin. Forecasting accuracy is evaluated using appropriate metrics.
+6. Forecasting: The AR model is used to forecast future temperature values for Berlin. Forecasting accuracy is evaluated using appropriate metrics.
 
-    Visualization: The project includes visualizations to help users understand the historical temperature data, model diagnostics, and forecasted values.
+7. Visualization: The project includes visualizations to help users understand the historical temperature data, model diagnostics, and forecasted values.
 
 ## Dependencies:
 
